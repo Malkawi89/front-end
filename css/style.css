@@ -1,0 +1,16 @@
+h1{
+    color: rgb(15, 102, 216 ,1);
+   text-align: center;
+    border: 8px dotted blue;
+    padding: 40px;
+    margin: 20px;   
+}
+
+.item1{
+    color: rgb(10, 40, 20);
+    margin: 5px;
+    padding: 5px;
+}
+h6{
+    font-size: 30px;
+}
