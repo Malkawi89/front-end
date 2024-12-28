@@ -1,0 +1,49 @@
+body
+{
+    background-color: aquamarine;
+}
+
+img{
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 45px;
+}
+
+button
+{
+    background-color: chartreuse;
+    width: 100px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-right: 150px;
+    border-radius: 50px;
+    font-size: large;
+    float: right;
+}
+#navBar
+{
+    margin-top: 250px;
+    background-color: rgb(9, 9, 49);
+    border-radius: 20px;
+    padding: 10px;
+}
+#nav2
+{
+    margin-top: 20px;
+background-color:brown;
+border-radius: 20px;
+
+}
+
+
+#navlist
+{
+    list-style: none;
+    display: flex;
+}
+
+.items{
+    margin-right: 16%;
+    margin-bottom: 45px;
+}
