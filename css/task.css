@@ -1,0 +1,35 @@
+body
+{
+    background-color: red;
+    border-radius: 80px;
+}
+img
+{
+    margin: 100px;
+    height: 180px;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+.gridCont
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    background-color: black;
+    color: rgb(16, 128, 227);
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button
+{
+    background-color: brown;
+    color:darkgoldenrod;
+    border-radius: 10px;
+}
