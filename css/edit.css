@@ -1,0 +1,30 @@
+.nav-link{
+    color: blueviolet;
+}
+#datatable
+{
+    width: 100%;
+    margin: auto;
+    border: 3px solid aqua;
+    text-align: center;
+}
+.theadrow
+{
+    background-color: black;
+    color: aquamarine;
+    border: 1px solid aqua;
+    
+}
+.row1
+{
+    border: 3px solid aqua;
+}
+
+.row1>td
+{
+    border: 3px solid aqua;
+}
+.row1>th
+{
+    border: 3px solid aqua;
+}
