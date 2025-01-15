@@ -1,0 +1,29 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 500px;
+    background-color: chartreuse;
+}
+
+.box
+{
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 1s ease-in-out;
+}
+.box:hover
+{
+    transform: rotate(180deg) scale(-2);
+    background-color: black;
+}
