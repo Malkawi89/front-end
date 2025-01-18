@@ -27,3 +27,47 @@ body
     transform: rotate(180deg) scale(-2);
     background-color: black;
 }
+.calc
+{
+    padding-left: 50px;
+    margin-top: 35px;
+}
+#number1,#number3
+{
+background-color: darkblue;
+color: aliceblue;
+padding: 4px;
+}
+#number2,#number4
+{
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 4px;
+}
+#sub
+{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+}
+#plus,#sup
+{
+    font-size: xx-large;
+    display: flex;
+    font-weight: bolder;
+}
+
+#op
+{
+    background-color:rgb(78, 13, 184);
+    color: aquamarine;
+    font-size:larger;
+    font-weight: bold;
+}
+#result
+{
+    font-weight: bolder;
+    font-size: larger;
+    
+}
