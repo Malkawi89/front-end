@@ -44,7 +44,7 @@ padding: 4px;
     color: aliceblue;
     padding: 4px;
 }
-#sub
+#sub,#submit
 {
     background-color: black;
     color: white;
@@ -58,6 +58,15 @@ padding: 4px;
     font-weight: bolder;
 }
 
+#primeOrNot
+{
+    background-color: cyan;
+    color: black;
+    margin-top: 33px;
+    margin-left: 10px;
+    padding: 3px;
+}
+
 #op
 {
     background-color:rgb(78, 13, 184);
@@ -65,7 +74,7 @@ padding: 4px;
     font-size:larger;
     font-weight: bold;
 }
-#result
+#result,#isPrime
 {
     font-weight: bolder;
     font-size: larger;
